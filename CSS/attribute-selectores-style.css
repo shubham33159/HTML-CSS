@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input[type = 'text']{
+    color: red;
+}
+
+label[for $= "name"]{
+    font-weight: 700;
+}
+
+a[href="https://www.google.com"]{
+    color: green;
+}
+
+a[href ^= "https"]{
+    color: red;
+}
+
+a[href $= ".com"]{
+    color: yellow;
+}
