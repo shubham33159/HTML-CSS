@@ -11,7 +11,7 @@ header #links{
     background-color: rgb(65, 65, 194);
 }
 
-p.paragraph{
+p#paragraph{
     color: #101010;
 }
 
