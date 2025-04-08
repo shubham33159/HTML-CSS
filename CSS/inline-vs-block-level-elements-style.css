@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1{
+    border: 2px solid #222;
+    width: 500px;
+    display: inline;
+}
+
+h2{
+    border: 2px solid #222;
+    display: inline;
+}
+
+
+
+a{
+    border: 2px solid red;
+    display: block;
+}
