@@ -1,0 +1,9 @@
+/* p:first-child{
+    color: white;
+    background-color: green;
+} */
+
+p:first-of-type{
+    color: white;
+    background-color: green;
+}
