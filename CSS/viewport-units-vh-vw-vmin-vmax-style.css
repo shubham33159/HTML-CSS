@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* h1{
+    border: 2px solid red;
+    width: 50vw;
+} */
+
+
+/* h1{
+    background-color: lightseagreen;
+    height: 100vh;
+} */
+
+
+h1{
+    height: 100vmin;
+    /* height: 100vmax; */
+
+    background-color: lightseagreen;
+}
