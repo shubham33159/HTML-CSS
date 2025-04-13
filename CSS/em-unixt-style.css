@@ -1,0 +1,15 @@
+h1{
+    font-size: 2em;
+    border: 1em solid red;
+}
+
+
+
+.box1{
+    font-size: 20px;
+}
+
+
+
+/* font-size of em unit multiplies with font-size of parent element */
+/* other properties of element of em unit takes from self element font-size */
